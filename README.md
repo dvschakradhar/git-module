@@ -23,4 +23,10 @@ there are 3 steps you need to do
 2. commit your changes ---->  git commit -m "<your message>"
 
 3. push your changes --->  git push origin/<branchname>
+<<<<<<< HEAD
 >>>>>>> c65209b8d46953b90235a27421a9a4de8beb1ef0
+=======
+
+To create a branch,
+git checkout -b "<branch name>"
+>>>>>>> d93bfb06a881e21fbb38d5a3912b6f4ca8be3cc7
