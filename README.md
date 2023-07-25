@@ -11,3 +11,6 @@ there are 3 steps you need to do
 2. commit your changes ---->  git commit -m "<your message>"
 
 3. push your changes --->  git push origin/<branchname>
+
+To create a branch,
+git checkout -b "<branch name>"
