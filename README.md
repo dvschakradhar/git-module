@@ -1,2 +1,5 @@
 # git-module
-A sample repository to explore git
+A sample repository to explore git.
+{
+    Editor: Tarun
+}
