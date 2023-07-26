@@ -14,3 +14,6 @@ there are 3 steps you need to do
 
 To create a branch,
 git checkout -b "<branch name>"
+
+To get all the branches list updated
+git fetch
