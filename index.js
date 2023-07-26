@@ -1,2 +1,2 @@
 console.log("Hello world!");
-console.log("Another comment");
+console.log("i am awasome and i am Amol");
