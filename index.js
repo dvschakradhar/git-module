@@ -1,2 +1,2 @@
 console.log("Hello world!");
-console.log("i am awasome and i am Amol");
+console.log("10x is awesome");
